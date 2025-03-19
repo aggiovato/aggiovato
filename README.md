@@ -47,6 +47,8 @@ Currently, I'm expanding my skills as a **DAW & DAM student**, while leveraging 
  <img align="left" alt="React" width="30px" style="padding-rignt:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodemon/nodemon-plain.svg" />
 </p>  
 
+---
+
 <br/>
 
 <details open>  
