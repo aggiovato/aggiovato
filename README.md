@@ -1,5 +1,5 @@
 # Alejandro Lugo
-### <small><i>(aggiovato)</i></small>  
+ <small><i>(aggiovato)</i></small>  
 
 **`Full-Stack Dev`** | **`Telecom & Electronics Engineer`** | **`React Zealot`**  
 
