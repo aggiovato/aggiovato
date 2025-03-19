@@ -1,19 +1,32 @@
-## Hi there 👋
+# Hi there! 👋 I'm Alejandro Lugo 
 
-<!--
-**aggiovato/aggiovato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Full-Stack Developer | Problem Solver | Tech Enthusiast**  
 
-Here are some ideas to get you started:
+I'm a passionate **full-stack developer** who loves building efficient, scalable, and user-friendly applications. I enjoy solving complex problems, learning new technologies, and crafting clean, maintainable code. Whether it's backend logic, frontend design, or optimizing performance, I always aim for **elegance and efficiency**.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack  
+- **Frontend:** React, Vue, JavaScript, TypeScript, HTML, CSS  
+- **Backend:** Node.js, Express, Python, Django  
+- **Databases:** PostgreSQL, MySQL, MongoDB  
+- **Other Tools:** Docker, Git, CI/CD, Cloud Services  
+
+### 🌟 What I Love  
+✔️ Turning ideas into reality through code  
+✔️ Exploring new frameworks & technologies  
+✔️ Building solutions that make an impact  
+✔️ Collaborating with like-minded developers  
+
+### 📌 Featured Projects  
+🔹 **[Project Name](#)** - Brief description of what it does  
+🔹 **[Project Name](#)** - Brief description of what it does  
+
+### 📫 Get in Touch  
+- 💼 [LinkedIn](#)  
+- 🌍 [Portfolio](#)  
+- ✉️ [Email](mailto:your.email@example.com)  
+
+Let's build something awesome together! 🚀  
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=aggiovato&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
