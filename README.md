@@ -22,10 +22,12 @@ Currently, I'm expanding my skills as a **DAW & DAM student**, while leveraging 
 
 ---
 
-## 🛠️ Technologies I Use  
-<p align="center">
+## 🛠️ Battle-Ready Stack
+<p align="center" style="margin-bottom:10px;">
  <img align="left" alt="React" width="30px" style="padding-rignt:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-          
+ <img align="left" alt="React" width="30px" style="padding-rignt:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactrouter/reactrouter-original.svg" />
+ <img align="left" alt="React" width="30px" style="padding-rignt:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
+ <img align="left" alt="React" width="30px" style="padding-rignt:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" />
 </p>  
 
 ---
