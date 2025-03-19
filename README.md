@@ -1,7 +1,7 @@
 # Alejandro Lugo
 ### <small><i>(aggiovato)</i></small>  
 
-🚀 **`Full-Stack Dev`** | **`Telecom & Electronics Engineer`** | **`React Zealot`**  
+**`Full-Stack Dev`** | **`Telecom & Electronics Engineer`** | **`React Zealot`**  
 
 ## 👨‍💻 About Me  
 I'm an engineer in **Telecom & Electronics** who fell in love with **programming and web development**. What started as curiosity became a passion, leading me to master both **frontend and backend** development.  
@@ -24,7 +24,7 @@ Currently, I'm expanding my skills as a **DAW & DAM student**, while leveraging 
 
 ## 🛠️ Technologies I Use  
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white"/>
+  [https://custom-icon-badges.demolab.com/badge/-My%20Repos-blue?style=for-the-badge&logoColor=white&logo=repo](https://custom-icon-badges.demolab.com/badge/-My%20Repos-blue?style=for-the-badge&logoColor=white&logo=repo)
   <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white"/>
