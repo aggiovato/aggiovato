@@ -51,29 +51,29 @@ Currently, I'm expanding my skills as a **DAW & DAM student**, while leveraging 
 
 <br/>
 
-<details open>  
+
   <summary><h2>💡 From Crying Over Assembly to Smiling with Astro</h2></summary>  
   My journey started with **low-level programming**, battling with Assembly and complex algorithms.  
   Over time, I found my passion in **web development**, where modern tools like **Astro, React, and Node.js** made coding fun and powerful.  
   Now, I enjoy building sleek, efficient, and high-performance web applications! 🚀  
-</details>  
+
 
 ---
 
-<details open>  
+
   <summary><h2>🧐 Why "aggiovato"?</h2></summary>  
   "Aggiovato" is more than just a nickname—it's an identity. It reflects my journey, my passion for technology, and my constant evolution as a developer.  
   Like my code, it's a mix of logic, creativity, and a bit of mystery. 😉  
-</details>  
+
 
 ---
 
-<details open>  
+
   <summary><h2>🎁 My Gift to You</h2></summary>  
   🔹 **Cool Repos:** [Repo 1](#), [Repo 2](#), [Repo 3](#)  
   🔹 **Music for Coding:** [Playlist 1](#), [Playlist 2](#)  
   🔹 **Dev Resources:** [Free Courses](#), [Best Tools](#)  
-</details>  
+
 
 ---
 
