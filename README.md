@@ -1,33 +1,72 @@
-# Alejandro Lugo *_(aggiovato)_*
+# Alejandro Lugo
+### <small><i>(aggiovato)</i></small>  
 
 🚀 **`Full-Stack Dev`** | **`Telecom & Electronics Engineer`** | **`React Zealot`**  
 
-I'm an **engineer in Telecommunications and Electronics** who discovered a deep passion for **programming and web development** throughout my career. What started as curiosity quickly turned into a profession—leading me to master both **frontend and backend development**.  
+## 👨‍💻 About Me  
+I'm an engineer in **Telecom & Electronics** who fell in love with **programming and web development**. What started as curiosity became a passion, leading me to master both **frontend and backend** development.  
+Currently, I'm expanding my skills as a **DAW & DAM student**, while leveraging **over two years of self-taught & freelance experience**. I thrive on solving complex problems and crafting scalable, elegant solutions.  
 
-Currently, I'm expanding my expertise as a **DAW (Web Application Development) and DAM (Multiplatform Application Development) student**, while also leveraging **over two years of self-taught and freelance experience**. I thrive on solving complex problems, optimizing performance, and delivering elegant, scalable solutions.  🚀 **Full-Stack Developer | Telecommunications & Electronics Engineer | Tech Enthusiast**  
+---
 
-### 🛠️ Tech Stack  
-- **Frontend:** React, Vue, JavaScript, TypeScript, HTML, CSS  
-- **Backend:** Node.js, Express, Python, Django  
-- **Databases:** PostgreSQL, MySQL, MongoDB  
-- **Other Tools:** Docker, Git, CI/CD, Cloud Services  
+<details open>  
+  <summary><h2>📘 My Top Open Source Projects</h2></summary>  
 
-### 🌟 What I Love  
-✔️ Turning ideas into reality through code  
-✔️ Exploring new frameworks & technologies  
-✔️ Building solutions that make an impact  
-✔️ Collaborating with like-minded developers  
+🔹 **[Project Name](#)** – Description here  
+🔹 **[Project Name](#)** – Description here  
+🔹 **[Project Name](#)** – Description here  
 
-### 📌 Featured Projects  
-🔹 **[Project Name](#)** - Brief description of what it does  
-🔹 **[Project Name](#)** - Brief description of what it does  
+🌟 Check out my full projects on [GitHub](#)!  
 
-### 📫 Get in Touch  
-- 💼 [LinkedIn](#)  
-- 🌍 [Portfolio](#)  
-- ✉️ [Email](mailto:your.email@example.com)  
+</details>  
 
-Let's build something awesome together! 🚀  
+---
+
+## 🛠️ Technologies I Use  
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=flat&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=flat&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=flat&logo=docker&logoColor=white"/>
+</p>  
+
+---
+
+<details open>  
+  <summary><h2>💡 From Crying Over Assembly to Smiling with Astro</h2></summary>  
+  My journey started with **low-level programming**, battling with Assembly and complex algorithms.  
+  Over time, I found my passion in **web development**, where modern tools like **Astro, React, and Node.js** made coding fun and powerful.  
+  Now, I enjoy building sleek, efficient, and high-performance web applications! 🚀  
+</details>  
+
+---
+
+<details open>  
+  <summary><h2>🧐 Why "aggiovato"?</h2></summary>  
+  "Aggiovato" is more than just a nickname—it's an identity. It reflects my journey, my passion for technology, and my constant evolution as a developer.  
+  Like my code, it's a mix of logic, creativity, and a bit of mystery. 😉  
+</details>  
+
+---
+
+<details open>  
+  <summary><h2>🎁 My Gift to You</h2></summary>  
+  🔹 **Cool Repos:** [Repo 1](#), [Repo 2](#), [Repo 3](#)  
+  🔹 **Music for Coding:** [Playlist 1](#), [Playlist 2](#)  
+  🔹 **Dev Resources:** [Free Courses](#), [Best Tools](#)  
+</details>  
+
+---
+
+## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" height="150">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" height="150">
+</p>  
 
 
 # 📊 GitHub Stats:
