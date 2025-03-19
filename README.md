@@ -1,4 +1,4 @@
-<h1>Alejandro Lugo <small style="font-style:italic; font-size:smaller; text-shadow: 1px 1px 2px gray;">(aggiovato)</small></h1>
+# Alejandro Lugo *_(aggiovato)_*
 
 🚀 **`Full-Stack Developer` | Telecommunications & Electronics Engineer | Tech Enthusiast**  
 
