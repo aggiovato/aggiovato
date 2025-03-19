@@ -1,8 +1,10 @@
 # Hi there! 👋 I'm Alejandro Lugo 
 
-🚀 **Full-Stack Developer | Problem Solver | Tech Enthusiast**  
+🚀 **Full-Stack Developer | Telecommunications & Electronics Engineer | Tech Enthusiast**  
 
-I'm a passionate **full-stack developer** who loves building efficient, scalable, and user-friendly applications. I enjoy solving complex problems, learning new technologies, and crafting clean, maintainable code. Whether it's backend logic, frontend design, or optimizing performance, I always aim for **elegance and efficiency**.  
+I'm an **engineer in Telecommunications and Electronics** who discovered a deep passion for **programming and web development** throughout my career. What started as curiosity quickly turned into a profession—leading me to master both **frontend and backend development**.  
+
+Currently, I'm expanding my expertise as a **DAW (Web Application Development) and DAM (Multiplatform Application Development) student**, while also leveraging **over two years of self-taught and freelance experience**. I thrive on solving complex problems, optimizing performance, and delivering elegant, scalable solutions.  🚀 **Full-Stack Developer | Telecommunications & Electronics Engineer | Tech Enthusiast**  
 
 ### 🛠️ Tech Stack  
 - **Frontend:** React, Vue, JavaScript, TypeScript, HTML, CSS  
