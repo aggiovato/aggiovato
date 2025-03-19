@@ -1,4 +1,4 @@
-# Alejandro Lugo 
+# Alejandro Lugo <small>(aggiovato)</small>
 
 🚀 **`Full-Stack Developer` | Telecommunications & Electronics Engineer | Tech Enthusiast**  
 
