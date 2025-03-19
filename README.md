@@ -28,9 +28,26 @@ Currently, I'm expanding my skills as a **DAW & DAM student**, while leveraging 
  <img align="left" alt="React" width="30px" style="padding-rignt:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactrouter/reactrouter-original.svg" />
  <img align="left" alt="React" width="30px" style="padding-rignt:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
  <img align="left" alt="React" width="30px" style="padding-rignt:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" />
+ <img align="left" alt="React" width="30px" style="padding-rignt:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+ <img align="left" alt="React" width="30px" style="padding-rignt:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+ <img align="left" alt="React" width="30px" style="padding-rignt:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/astro/astro-original.svg" />
+ <img align="left" alt="React" width="30px" style="padding-rignt:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+ <img align="left" alt="React" width="30px" style="padding-rignt:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" />
+ <img align="left" alt="React" width="30px" style="padding-rignt:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" />
+ <img align="left" alt="React" width="30px" style="padding-rignt:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" />
+ <img align="left" alt="React" width="30px" style="padding-rignt:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" />
+ <img align="left" alt="React" width="30px" style="padding-rignt:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" />
+ <img align="left" alt="React" width="30px" style="padding-rignt:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitest/vitest-original.svg" />
+ <img align="left" alt="React" width="30px" style="padding-rignt:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
+ <img align="left" alt="React" width="30px" style="padding-rignt:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+ <img align="left" alt="React" width="30px" style="padding-rignt:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg" />
+ <img align="left" alt="React" width="30px" style="padding-rignt:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
+ <img align="left" alt="React" width="30px" style="padding-rignt:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" />
+ <img align="left" alt="React" width="30px" style="padding-rignt:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" />
+ <img align="left" alt="React" width="30px" style="padding-rignt:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodemon/nodemon-plain.svg" />
 </p>  
 
-
+<br/>
 
 <details open>  
   <summary><h2>💡 From Crying Over Assembly to Smiling with Astro</h2></summary>  
