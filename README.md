@@ -1,5 +1,4 @@
-# Alejandro Lugo
- <small><i>(aggiovato)</i></small>  
+<h1>Alejandro Lugo</h1>h1><small><i>(aggiovato)</i></small>  
 
 **`Full-Stack Dev`** | **`Telecom & Electronics Engineer`** | **`React Zealot`**  
 
