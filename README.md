@@ -7,7 +7,7 @@ Currently, I'm expanding my skills as a **DAW & DAM student**, while leveraging 
 
 <hr>
 
-## 🛠️ Battle-Ready Stack:
+## 🛠️ Battle-Ready Stack
 <small><i>Programming Languages</i></small><br/>
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
   ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -92,7 +92,7 @@ Currently, I'm expanding my skills as a **DAW & DAM student**, while leveraging 
   ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
   ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) 
 
-## 📊 GitHub Stats:
+## 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=aggiovato&theme=one_dark_pro&hide_border=false&include_all_commits=false&count_private=false)
 <br/>
