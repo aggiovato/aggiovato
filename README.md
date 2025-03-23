@@ -2,13 +2,10 @@
 
 **`Full-Stack Dev`** | **`Telecom & Electronics Engineer`** | **`React Zealot`**  
 
-## Hi there 
 I'm an engineer in **Telecom & Electronics** who fell in love with **programming and web development**. What started as curiosity became a passion, leading me to master both **frontend and backend** development.  
 Currently, I'm expanding my skills as a **DAW & DAM student**, while leveraging **over two years of self-taught & freelance experience**. I thrive on solving complex problems and crafting scalable, elegant solutions.  
 
-<br/>
-![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)(mailto:aggiovato@gmail.com) 
-
+<hr>
 
 ## 🛠️ Battle-Ready Stack:
 <small><i>Programming Languages</i></small><br/>
