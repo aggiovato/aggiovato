@@ -1,6 +1,9 @@
 <img src="assets/aggiovato_banner.webp" alt="Github banner" width="100%" />
 
-<h1>Alejandro Lugo</h1> <small><i>(aggiovato)</i></small>
+<p align="center">
+  <img src="assets/astro.svg" alt="User icon" width="100" height="100" />
+</p>
+<h1 align="center">Alejandro Lugo <sub><i>(aggiovato)</i></sub></h1>
 
 **`Full-Stack Dev`** | **`Telecom & Electronics Engineer`** | **`React Zealot`**
 
