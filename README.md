@@ -1,4 +1,3 @@
-<img src="assets/aggiovato_banner.webp" alt="Github banner" width="100%" />
 
 <p align="center">
   <img src="assets/astro.svg" alt="User icon" width="200" height="200" />
