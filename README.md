@@ -92,7 +92,7 @@ Currently, I'm expanding my skills as a **DAW & DAM student**, while leveraging 
 
 ---
 
-###💡 From Crying Over Assembly to Smiling with React
+### 💡 From Crying Over Assembly to Smiling with React
   My journey started with **low-level programming**, battling with Assembly and complex algorithms.  
   Over time, I found my passion in **web development**, where modern tools like **Astro, React, and Node.js** made coding fun and powerful.  
   Now, I enjoy building sleek, efficient, and high-performance web applications! 🚀  
@@ -100,21 +100,15 @@ Currently, I'm expanding my skills as a **DAW & DAM student**, while leveraging 
 ---
 
 
-###🧐 Why "aggiovato"?
+### 🧐 Why "aggiovato"?
   
 
 ---
 
-###🎁 My gifts to You
+### 🎁 My gifts to You
   🔹 **Cool Repos:** [Repo 1](#), [Repo 2](#), [Repo 3](#)  
   🔹 **Music for Coding:** [Playlist 1](#), [Playlist 2](#)  
   🔹 **Dev Resources:** [Free Courses](#), [Best Tools](#)  
 
 ---
-
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aggiovato&show_icons=true&theme=radical" height="150">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aggiovato&show_icons=true&theme=radical" height="150">
-</p>  
 
