@@ -1,4 +1,4 @@
-<img src="aggiovato_banner.webp" alt="Github banner" width="100%" />
+<img src="assets/aggiovato_banner.webp" alt="Github banner" width="100%" />
 
 <h1>Alejandro Lugo</h1> <small><i>(aggiovato)</i></small>
 
