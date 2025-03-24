@@ -78,11 +78,11 @@ Currently, I'm expanding my skills as a **DAW & DAM student**, while leveraging 
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=aggiovato&theme=one_dark_pro&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.vercel.app/api?username=aggiovato&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 <br/>
-![](https://nirzak-streak-stats.vercel.app/?user=aggiovato&theme=one_dark_pro&hide_border=false)
+![](https://nirzak-streak-stats.vercel.app/?user=aggiovato&theme=dark&hide_border=false)
 <br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aggiovato&theme=one_dark_pro&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=aggiovato&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 ## 🏆 GitHub Trophies
