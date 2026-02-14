@@ -7,21 +7,20 @@
 </h1>
 
 <p align="center">
-  <b>Full-Stack Developer</b> • <b>Telecom & Electronics Engineer</b> • <b>React-first</b>
+  <b>Full-Stack Developer</b> • <b>Telecom & Electronics Engineer</b> • <b>Web & Product-minded</b>
 </p>
 
 <p align="center">
   <a href="https://github.com/aggiovato">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <!-- Cambia estos enlaces por los tuyos -->
   <a href="https://www.linkedin.com/in/TU-USUARIO/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:TU_CORREO@dominio.com">
+  <a href="mailto:aggiovato@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://TU-PORTFOLIO.com">
+  <a href="https://github.com/aggiovato">
     <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
@@ -30,30 +29,42 @@
 
 ## About
 I’m a **Telecom & Electronics Engineer** who pivoted into **software & web development**—now building products across **frontend and backend**.
+My path started with **low-level programming**: strong foundations in **C**, **C++ OOP**, and **microprocessor Assembly**. That technical depth made me fall in love with software engineering—and naturally pushed me into the **web ecosystem**, where I build scalable products with modern frontend and backend stacks.
 
-- 🧱 Strong focus on **modern UI architecture** (React, TypeScript, Astro)
-- ⚙️ Backend experience with **Node/Express**, auth, APIs, and databases
-- 🎓 Currently expanding skills as a **DAW & DAM student**
-- 🧩 I enjoy turning complex requirements into **clean, scalable solutions**
+- 🎯 Focus: **clean architecture, maintainable code, and high-performance UI**
+- 🧠 Mindset: strong fundamentals + pragmatic delivery
+- 🌍 I enjoy solving real business problems end-to-end
 
 ---
 
-## Now
-- 🔭 Building: **Full-stack apps with React + TypeScript**
-- 🌱 Learning: **GraphQL**, testing, and deployment automation
-- 🤝 Open to: **collaboration** on meaningful projects
+## Core skills (daily stack)
+### Frontend
+- **Angular (daily)**  
+- **React + Astro**
+- **JavaScript / TypeScript**
+- **HTML • CSS • SCSS • Tailwind**
+
+### Backend
+- **Java (Spring Boot) — daily**
+- **Node.js / Express**
+- **REST APIs • GraphQL**
+
+### Databases
+- **MongoDB • PostgreSQL • MySQL • Redis**
+
+### Tooling / DevOps
+- **Vite • Docker • Git/GitHub** (and more below)
 
 ---
 
 ## Featured projects
-> Tip: reemplaza los nombres de repos por los tuyos. Estos “repo cards” se ven muy pro.
 
 <p align="center">
-  <a href="https://github.com/aggiovato/REPO_1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aggiovato&repo=REPO_1&theme=transparent" />
+  <a href="https://github.com/aggiovato/usequiz">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aggiovato&repo=usequiz&theme=transparent" />
   </a>
-  <a href="https://github.com/aggiovato/REPO_2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aggiovato&repo=REPO_2&theme=transparent" />
+  <a href="https://github.com/aggiovato/full-stack-open">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aggiovato&repo=full-stack-open&theme=transparent" />
   </a>
 </p>
 
@@ -65,14 +76,9 @@ I’m a **Telecom & Electronics Engineer** who pivoted into **software & web dev
 
 ---
 
-## Core stack (daily drivers)
-**Frontend:** React • TypeScript • Astro • Tailwind  
-**Backend:** Node.js • Express • JWT  
-**Data:** MongoDB • PostgreSQL • MySQL • Redis  
-**Tooling:** Vite • Docker • Git/GitHub • ESLint
-
+## Tech stack (full list)
 <details>
-  <summary><b>Full tech stack (badges)</b></summary>
+  <summary><b>Open full stack badges</b></summary>
   <br/>
 
   <small><i>Programming Languages</i></small><br/>
@@ -86,58 +92,35 @@ I’m a **Telecom & Electronics Engineer** who pivoted into **software & web dev
 
   <br/><br/>
   <small><i>Frontend</i></small><br/>
+  ![Angular](https://img.shields.io/badge/angular-DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+  ![React](https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB)
+  ![Astro](https://img.shields.io/badge/astro-2C2052.svg?style=for-the-badge&logo=astro&logoColor=white)
   ![HTML5](https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
   ![SASS](https://img.shields.io/badge/SASS-DB7093.svg?style=for-the-badge&logo=sass&logoColor=white)
   ![TailwindCSS](https://img.shields.io/badge/tailwindcss-38B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-  ![Bootstrap](https://img.shields.io/badge/bootstrap-8511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-  ![Chakra](https://img.shields.io/badge/chakra-4ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white)
-  ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
-  <br/>
-  ![React](https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB)
-  ![Astro](https://img.shields.io/badge/astro-2C2052.svg?style=for-the-badge&logo=astro&logoColor=white)
-  ![SolidJS](https://img.shields.io/badge/SolidJS-2c4f7c?style=for-the-badge&logo=solid&logoColor=c8c9cb)
-  ![EJS](https://img.shields.io/badge/ejs-B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black)
-  ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-  <br/>
-  ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-  ![React Query](https://img.shields.io/badge/React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
-  ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white)
-  ![Redux](https://img.shields.io/badge/redux-593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-  ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react)
 
   <br/><br/>
   <small><i>Backend</i></small><br/>
+  ![Spring Boot](https://img.shields.io/badge/spring%20boot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
   ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
   ![Express.js](https://img.shields.io/badge/express.js-404d59.svg?style=for-the-badge&logo=express&logoColor=white)
-  ![Nodemon](https://img.shields.io/badge/NODEMON-323330.svg?style=for-the-badge&logo=nodemon&logoColor=BBDEAD)
-  ![Django](https://img.shields.io/badge/django-092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+  ![GraphQL](https://img.shields.io/badge/graphql-E10098.svg?style=for-the-badge&logo=graphql&logoColor=white)
   ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 
   <br/><br/>
   <small><i>Databases</i></small><br/>
   ![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-  ![Redis](https://img.shields.io/badge/redis-DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-  ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
   ![Postgres](https://img.shields.io/badge/postgres-316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+  ![Redis](https://img.shields.io/badge/redis-DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 
   <br/><br/>
-  <small><i>DevOps</i></small><br/>
+  <small><i>Tooling / DevOps</i></small><br/>
+  ![Vite](https://img.shields.io/badge/vite-646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
   ![Docker](https://img.shields.io/badge/docker-0db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
   ![Git](https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/github-121011.svg?style=for-the-badge&logo=github&logoColor=white)
-  ![AWS](https://img.shields.io/badge/AWS-FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-  ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
-  ![Netlify](https://img.shields.io/badge/netlify-000000.svg?style=for-the-badge&logo=netlify&logoColor=00C7B7)
-
-  <br/><br/>
-  <small><i>Tools</i></small><br/>
-  ![Figma](https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-  ![Notion](https://img.shields.io/badge/Notion-000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-  ![Jira](https://img.shields.io/badge/jira-0A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-  ![Confluence](https://img.shields.io/badge/confluence-172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
-  ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
 
 </details>
 
@@ -163,22 +146,16 @@ I’m a **Telecom & Electronics Engineer** who pivoted into **software & web dev
 ---
 
 ## Why “aggiovato”?
-<!-- Hazlo corto (1–2 líneas). Ejemplos:
-- A childhood nickname that stuck with me.
-- A handle I’ve used for years across dev platforms.
--->
-A personal handle I’ve used for years—simple, recognizable, and it stuck.
+From **Giove** (*Jupiter* in Italian): a nickname I’ve carried for years—think “landed on Jupiter”.  
+It’s rare enough to be instantly recognizable (and finding it taken online is almost impossible :)
 
 ---
 
 ## Links & resources
-- 📌 Portfolio: **TU_LINK**
-- 🧠 Notes / Blog: **TU_LINK**
-- 🎧 Coding playlist: **TU_LINK**
-- 🧰 Favorite resources: **TU_LINK**
+> Committing soon
 
 ---
 
 <p align="center">
-  <sub>Built with ❤️ — always learning, always shipping.</sub>
+  <sub>Shipping features… one step closer to an “aggiovato” 😉</sub>
 </p>
