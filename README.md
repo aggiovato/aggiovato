@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/astro.svg" alt="Alejandro Lugo avatar" width="160" height="160" />
+  <img src="assets/banner.png" alt="Alejandro Lugo avatar" />
 </p>
 
 <h1 align="center">
