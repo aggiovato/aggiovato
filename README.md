@@ -89,12 +89,13 @@ My path started with **low-level programming**: strong foundations in **C**, **C
   <br/>
 
   <small><i>Programming Languages</i></small><br/>
-  ![TypeScript](assets/ts-chip)
-  ![C](assets/c-chip)
-  ![C++](assets/c++-chip)
-  ![Java](assets/java-chip)
-  ![Python](assets/python-chip)
-  ![AssemblyScript](assets/assembly-chip)
+  <img alt="javascript" src="assets/js-badge.svg" style="height:32px; width:auto; display:block;" />
+  <img alt="typescript" src="assets/ts-badge.svg" style="height:32px; width:auto; display:block;" />
+  <img alt="c" src="assets/c-badge.svg" style="height:32px; width:auto; display:block;" />
+  <img alt="c++" src="assets/c++-badge.svg" style="height:32px; width:auto; display:block;" />
+  <img alt="java" src="assets/java-badge.svg" style="height:32px; width:auto; display:block;" />
+  <img alt="python" src="assets/python-badge.svg" style="height:32px; width:auto; display:block;" />
+  <img alt="assembly" src="assets/assembly-badge.svg" style="height:32px; width:auto; display:block;" />
 
   <br/><br/>
   <small><i>Frontend</i></small><br/>
