@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://github.com/aggiovato">
-    <img alt="GitHub" src="assets/github-btn.svg" />
+    <img alt="GitHub" src="assets/github.svg" />
   </a>
   <a href="https://www.linkedin.com/in/heberlugo/">
     <img alt="LinkedIn" src="assets/linkedin-btn.svg" />
