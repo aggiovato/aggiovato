@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://github.com/aggiovato">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" />
+    <img alt="GitHub" src="assets/github-btn.svg" />
   </a>
   <a href="https://www.linkedin.com/in/heberlugo/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
