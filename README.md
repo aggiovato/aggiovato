@@ -18,9 +18,22 @@
 I’m a **Telecom & Electronics Engineer** who pivoted into **software & web development**—now building products across **frontend and backend**.
 My path started with **low-level programming**: strong foundations in **C**, **C++ OOP**, and **microprocessor Assembly**. That technical depth made me fall in love with software engineering—and naturally pushed me into the **web ecosystem**, where I build scalable products with modern frontend and backend stacks. I also work comfortably across product: **requirements, prioritization, and UX**—bridging business needs and engineering delivery.
 
-- 🎯 Focus: **clean architecture**, **maintainable code**, and **high-performance UI**
-- 🧠 Product mindset: **turning business needs into clear requirements** (flows, edge cases, acceptance criteria)
-- 🌍 Delivery: **shipping end-to-end solutions**—from idea and design (Figma) to implementation and release
+<ul>
+  <li>
+    <img src="assets/focus.svg" width="18" height="18" alt="Focus" style="vertical-align:middle;" />
+    &nbsp;<b>Focus:</b> <b>clean architecture</b>, <b>maintainable code</b>, and <b>high-performance UI</b>
+  </li>
+
+  <li>
+    <img src="assets/mindset.svg" width="18" height="18" alt="Product mindset" style="vertical-align:middle;" />
+    &nbsp;<b>Product mindset:</b> <b>turning business needs into clear requirements</b> (flows, edge cases, acceptance criteria)
+  </li>
+
+  <li>
+    <img src="assets/delivery.svg" width="18" height="18" alt="Delivery" style="vertical-align:middle;" />
+    &nbsp;<b>Delivery:</b> <b>shipping end-to-end solutions</b>—from idea and design (Figma) to implementation and release
+  </li>
+</ul>
 
 ---
 
@@ -185,10 +198,20 @@ It’s rare enough to be instantly recognizable (and finding it taken online is 
 ---
 
 ### Links & resources
-- 📌 Portfolio: coming soon
-- 🧠 Notes: coming soon
-- 🎧 Coding playlist: coming soon
-
+<ul>
+  <li>
+    <img src="assets/portfolio.svg" width="18" height="18" alt="Portfolio" style="vertical-align:middle;" />
+    &nbsp;<b>Portfolio:</b> <a href="#">coming soon</a>
+  </li>
+  <li>
+    <img src="assets/notes.svg" width="18" height="18" alt="Notes" style="vertical-align:middle;" />
+    &nbsp;<b>Notes:</b> <a href="#">coming soon</a>
+  </li>
+  <li>
+    <img src="assets/headphones.svg" width="18" height="18" alt="Coding playlist" style="vertical-align:middle;" />
+    &nbsp;<b>Coding playlist:</b> <a href="#">coming soon</a>
+  </li>
+</ul>
 
 ---
 
