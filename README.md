@@ -10,7 +10,7 @@
   <a href="https://github.com/aggiovato">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/TU-USUARIO/">
+  <a href="https://www.linkedin.com/in/heberlugo/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:aggiovato@gmail.com">
