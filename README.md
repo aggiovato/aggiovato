@@ -7,14 +7,19 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/aggiovato">
-    <img alt="GitHub" src="assets/github.svg" />
+  <a href="https://github.com/aggiovato"
+     style="display:inline-flex; align-items:center; justify-content:center; padding:6px;">
+    <img alt="GitHub" src="assets/github.svg" style="height:36px; width:auto; display:block;" />
   </a>
-  <a href="https://www.linkedin.com/in/heberlugo/">
-    <img alt="LinkedIn" src="assets/linkedin-btn.svg" />
+
+  <a href="https://www.linkedin.com/in/heberlugo/"
+     style="display:inline-flex; align-items:center; justify-content:center; padding:6px;">
+    <img alt="LinkedIn" src="assets/linkedin-btn.svg" style="height:36px; width:auto; display:block;" />
   </a>
-  <a href="mailto:aggiovato@gmail.com">
-    <img alt="Email" src="assets/email-btn.svg" />
+
+  <a href="mailto:aggiovato@gmail.com"
+     style="display:inline-flex; align-items:center; justify-content:center; padding:6px;">
+    <img alt="Email" src="assets/email-btn.svg" style="height:36px; width:auto; display:block;" />
   </a>
   <!-- <a href="https://github.com/aggiovato">
     <img alt="Portfolio" src="assets/portfolio-btn.svg" />
