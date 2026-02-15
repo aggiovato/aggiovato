@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" alt="Alejandro Lugo avatar" />
+  <img src="assets/banner.png" alt="Alejandro Lugo banner" />
 </p>
 
 <p align="center">
@@ -7,18 +7,15 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/aggiovato"
-     style="display:inline-flex; align-items:center; justify-content:center; padding:6px;">
+  <a href="https://github.com/aggiovato" style="text-decoration:none;">
     <img alt="GitHub" src="assets/github.svg" style="height:36px; width:auto; display:block;" />
   </a>
 
-  <a href="https://www.linkedin.com/in/heberlugo/"
-     style="display:inline-flex; align-items:center; justify-content:center; padding:6px;">
+  <a href="https://www.linkedin.com/in/heberlugo/" style="text-decoration:none;">
     <img alt="LinkedIn" src="assets/linkedin-btn.svg" style="height:36px; width:auto; display:block;" />
   </a>
 
-  <a href="mailto:aggiovato@gmail.com"
-     style="display:inline-flex; align-items:center; justify-content:center; padding:6px;">
+  <a href="mailto:aggiovato@gmail.com" style="text-decoration:none;">
     <img alt="Email" src="assets/email-btn.svg" style="height:36px; width:auto; display:block;" />
   </a>
   <!-- <a href="https://github.com/aggiovato">
@@ -60,14 +57,25 @@ My path started with **low-level programming**: strong foundations in **C**, **C
 
 ## Featured projects
 
-<p align="center">
-  <a href="https://github.com/aggiovato/usequiz">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aggiovato&repo=usequiz&theme=transparent" />
+<div align="center" style="display:flex; flex-wrap:wrap; gap:14px; justify-content:center; align-items:center;">
+  <a href="https://github.com/aggiovato/usequiz"
+     style="display:inline-flex; align-items:center; justify-content:center; text-decoration:none;">
+    <img
+      src="https://github-readme-stats-fast.vercel.app/api/pin/?username=aggiovato&repo=usequiz&theme=transparent&hide_border=true"
+      alt="usequiz repo card"
+      style="width:495px; max-width:100%; height:auto; display:block;"
+    />
   </a>
-  <a href="https://github.com/aggiovato/full-stack-open">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aggiovato&repo=full-stack-open&theme=transparent" />
+
+  <a href="https://github.com/aggiovato/full-stack-open"
+     style="display:inline-flex; align-items:center; justify-content:center; text-decoration:none;">
+    <img
+      src="https://github-readme-stats-fast.vercel.app/api/pin/?username=aggiovato&repo=full-stack-open&theme=transparent&hide_border=true"
+      alt="full-stack-open repo card"
+      style="width:495px; max-width:100%; height:auto; display:block;"
+    />
   </a>
-</p>
+</div>
 
 <p align="center">
   <a href="https://github.com/aggiovato?tab=repositories">
@@ -128,19 +136,24 @@ My path started with **low-level programming**: strong foundations in **C**, **C
 ---
 
 ## GitHub activity
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aggiovato&theme=transparent&hide_border=true&show_icons=true" />
-</p>
-
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=aggiovato&theme=transparent&hide_border=true" />
-</p>
+<div align="center" style="display:flex; flex-wrap:wrap; gap:14px; justify-content:center; align-items:center;">
+  <img
+    src="https://github-readme-stats-fast.vercel.app/api?username=aggiovato&show_icons=true&bg_color=00000000&hide_border=true"
+    alt="GitHub stats"
+    style="width:495px; max-width:100%; height:auto; display:block;"
+  />
+  <img
+    src="https://nirzak-streak-stats.vercel.app/?user=aggiovato&theme=transparent&hide_border=true"
+    alt="GitHub streak"
+    style="width:495px; max-width:100%; height:auto; display:block;"
+  />
+</div>
 
 <details>
   <summary><b>Top languages</b></summary>
   <br/>
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aggiovato&theme=transparent&hide_border=true&layout=compact" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=aggiovato&layout=donut&theme=transparent&hide_border=true" />
   </p>
 </details>
 
