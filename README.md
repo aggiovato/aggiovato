@@ -35,23 +35,34 @@ My path started with **low-level programming**: strong foundations in **C**, **C
 
 ---
 
-### Core skills (daily stack)
-#### Frontend
-- **Angular (daily)**  
-- **React + Astro**
-- **JavaScript / TypeScript**
-- **HTML • CSS • SCSS • Tailwind**
+### Daily stack (core skills)
 
-#### Backend
-- **Java (Spring Boot) — daily**
-- **Node.js / Express**
-- **REST APIs • GraphQL**
+<p align="center">
+  <img alt="Angular" src="assets/angular-badge.svg" height="34" />
+  <img alt="TypeScript" src="assets/ts-badge.svg" height="34" />
+  <img alt="Redux" src="assets/redux-badge.svg" height="34" />
+  <img alt="RxJS" src="assets/rxjs-badge.svg" height="34" />
+  <img alt="HTML" src="assets/html-badge.svg" height="34" />
+  <img alt="CSS" src="assets/css-badge.svg" height="34" />
+  <img alt="Tailwind" src="assets/tailwind-badge.svg" height="34" />
+  <img alt="Sass" src="assets/sass-badge.svg" height="34" />
+</p>
 
-#### Databases
-- **MongoDB • PostgreSQL • MySQL • Redis**
+<p align="center">
+  <img alt="Java" src="assets/java-badge.svg" height="34" />
+  <img alt="Spring Boot" src="assets/spring-boot-badge.svg" height="34" />
+  <img alt="PostgreSQL" src="assets/postgres-badge.svg" height="34" />
+  <img alt="MySQL" src="assets/mysql-badge.svg" height="34" />
+</p>
 
-#### Tooling / DevOps
-- **Vite • Docker • Git/GitHub** (and more below)
+<p align="center">
+  <img alt="Docker" src="assets/docker-badge.svg" height="34" />
+  <img alt="Playwright" src="assets/playwright-badge.svg" height="34" />
+  <img alt="Git" src="assets/git-badge.svg" height="34" />
+  <img alt="GitHub" src="assets/github-badge.svg" height="34" />
+  <img alt="Postman" src="assets/postman-badge.svg" height="34" />
+  <img alt="Figma" src="assets/figma-badge.svg" height="34" />
+</p>
 
 ---
 
@@ -77,7 +88,7 @@ My path started with **low-level programming**: strong foundations in **C**, **C
 
 <p align="center">
   <a href="https://github.com/aggiovato?tab=repositories" style="text-decoration:none;">
-    <img alt="All Repos" src="assets/all-repos-btn.svg" style="height:36px; width:auto; display:block;" />
+    <img alt="All Repos" src="assets/all-repos.svg" style="height:36px; width:auto; display:block;" />
   </a>
 </p>
 
@@ -88,46 +99,61 @@ My path started with **low-level programming**: strong foundations in **C**, **C
   <summary><b>Open full stack badges</b></summary>
   <br/>
 
-  <small><i>Programming Languages</i></small><br/>
-  <img alt="javascript" src="assets/js-badge.svg" style="height:32px; width:auto; display:block;" />
-  <img alt="typescript" src="assets/ts-badge.svg" style="height:32px; width:auto; display:block;" />
-  <img alt="c" src="assets/c-badge.svg" style="height:32px; width:auto; display:block;" />
-  <img alt="c++" src="assets/c++-badge.svg" style="height:32px; width:auto; display:block;" />
-  <img alt="java" src="assets/java-badge.svg" style="height:32px; width:auto; display:block;" />
-  <img alt="python" src="assets/python-badge.svg" style="height:32px; width:auto; display:block;" />
-  <img alt="assembly" src="assets/assembly-badge.svg" style="height:32px; width:auto; display:block;" />
+  <p><sub><i>Languages</i></sub></p>
+  <p align="center">
+    <img alt="javascript" src="assets/js-badge.svg" height="32" />
+    <img alt="typescript" src="assets/ts-badge.svg" height="32" />
+    <img alt="python" src="assets/python-badge.svg" height="32" />
+    <img alt="java" src="assets/java-badge.svg" height="32" />
+    <img alt="kotlin" src="assets/kotlin-badge.svg" height="32" />
+    <img alt="c++" src="assets/c++-badge.svg" height="32" />
+    <img alt="c" src="assets/c-badge.svg" height="32" />
+    <img alt="assembly" src="assets/assembly-badge.svg" height="32" />
+  </p>
 
-  <br/><br/>
-  <small><i>Frontend</i></small><br/>
-  ![Angular](https://img.shields.io/badge/angular-DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-  ![React](https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB)
-  ![Astro](https://img.shields.io/badge/astro-2C2052.svg?style=for-the-badge&logo=astro&logoColor=white)
-  ![HTML5](https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-  ![SASS](https://img.shields.io/badge/SASS-DB7093.svg?style=for-the-badge&logo=sass&logoColor=white)
-  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-38B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+  <p><sub><i>Frontend</i></sub></p>
+  <p align="center">
+    <img alt="angular" src="assets/angular-badge.svg" height="32" />
+    <img alt="react" src="assets/react-badge.svg" height="32" />
+    <img alt="astro" src="assets/astro-badge.svg" height="32" />
+    <img alt="tanstack" src="assets/tanstack-badge.svg" height="32" />
+    <img alt="redux" src="assets/redux-badge.svg" height="32" />
+    <img alt="rxjs" src="assets/rxjs-badge.svg" height="32" />
+    <img alt="html" src="assets/html-badge.svg" height="32" />
+    <img alt="css" src="assets/css-badge.svg" height="32" />
+    <img alt="sass" src="assets/sass-badge.svg" height="32" />
+    <img alt="tailwind" src="assets/tailwind-badge.svg" height="32" />
+  </p>
 
-  <br/><br/>
-  <small><i>Backend</i></small><br/>
-  ![Spring Boot](https://img.shields.io/badge/spring%20boot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
-  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-  ![Express.js](https://img.shields.io/badge/express.js-404d59.svg?style=for-the-badge&logo=express&logoColor=white)
-  ![GraphQL](https://img.shields.io/badge/graphql-E10098.svg?style=for-the-badge&logo=graphql&logoColor=white)
-  ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+  <p><sub><i>Backend</i></sub></p>
+  <p align="center">
+    <img alt="spring boot" src="assets/spring-boot-badge.svg" height="32" />
+    <img alt="node js" src="assets/node-badge.svg" height="32" />
+    <img alt="express js" src="assets/express-badge.svg" height="32" />
+    <img alt="graphql" src="assets/graphql-badge.svg" height="32" />
+    <img alt="apollo" src="assets/apollo-badge.svg" height="32" />
+    <img alt="jwt" src="assets/jwt-badge.svg" height="32" />
+  </p>
 
-  <br/><br/>
-  <small><i>Databases</i></small><br/>
-  ![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-  ![Postgres](https://img.shields.io/badge/postgres-316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-  ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-  ![Redis](https://img.shields.io/badge/redis-DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+  <p><sub><i>Databases</i></sub></p>
+  <p align="center">
+    <img alt="mongodb" src="assets/mongodb-badge.svg" height="32" />
+    <img alt="postgres" src="assets/postgres-badge.svg" height="32" />
+    <img alt="mysql" src="assets/mysql-badge.svg" height="32" />
+    <img alt="redis" src="assets/redis-badge.svg" height="32" />
+  </p>
 
-  <br/><br/>
-  <small><i>Tooling / DevOps</i></small><br/>
-  ![Vite](https://img.shields.io/badge/vite-646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-  ![Docker](https://img.shields.io/badge/docker-0db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-  ![Git](https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/github-121011.svg?style=for-the-badge&logo=github&logoColor=white)
+  <p><sub><i>Tooling / DevOps</i></sub></p>
+  <p align="center">
+    <img alt="vite" src="assets/vite-badge.svg" height="32" />
+    <img alt="vitest" src="assets/vitest-badge.svg" height="32" />
+    <img alt="playwright" src="assets/playwright-badge.svg" height="32" />
+    <img alt="docker" src="assets/docker-badge.svg" height="32" />
+    <img alt="git" src="assets/git-badge.svg" height="32" />
+    <img alt="github" src="assets/github-badge.svg" height="32" />
+    <img alt="postman" src="assets/postman-badge.svg" height="32" />
+    <img alt="figma" src="assets/figma-badge.svg" height="32" />
+  </p>
 
 </details>
 
