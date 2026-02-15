@@ -2,10 +2,6 @@
   <img src="assets/banner.png" alt="Alejandro Lugo avatar" />
 </p>
 
-<h1 align="center">
-  Alejandro Lugo <sub><i>(aggiovato)</i></sub>
-</h1>
-
 <p align="center">
   <b>Full-Stack Developer</b> • <b>Telecom & Electronics Engineer</b> • <b>Web & Product-minded</b>
 </p>
