@@ -11,14 +11,14 @@
     <img alt="GitHub" src="assets/github-btn.svg" />
   </a>
   <a href="https://www.linkedin.com/in/heberlugo/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img alt="LinkedIn" src="assets/linkedin-btn.svg" />
   </a>
   <a href="mailto:aggiovato@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img alt="Email" src="assets/email-btn.svg" />
   </a>
-  <a href="https://github.com/aggiovato">
-    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
+  <!-- <a href="https://github.com/aggiovato">
+    <img alt="Portfolio" src="assets/portfolio-btn.svg" />
+  </a> -->
 </p>
 
 ---
