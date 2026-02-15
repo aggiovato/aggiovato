@@ -25,7 +25,7 @@
 
 ---
 
-## About
+### About
 I’m a **Telecom & Electronics Engineer** who pivoted into **software & web development**—now building products across **frontend and backend**.
 My path started with **low-level programming**: strong foundations in **C**, **C++ OOP**, and **microprocessor Assembly**. That technical depth made me fall in love with software engineering—and naturally pushed me into the **web ecosystem**, where I build scalable products with modern frontend and backend stacks.
 
@@ -35,14 +35,14 @@ My path started with **low-level programming**: strong foundations in **C**, **C
 
 ---
 
-## Core skills (daily stack)
-### Frontend
+### Core skills (daily stack)
+#### Frontend
 - **Angular (daily)**  
 - **React + Astro**
 - **JavaScript / TypeScript**
 - **HTML • CSS • SCSS • Tailwind**
 
-### Backend
+#### Backend
 - **Java (Spring Boot) — daily**
 - **Node.js / Express**
 - **REST APIs • GraphQL**
@@ -50,32 +50,30 @@ My path started with **low-level programming**: strong foundations in **C**, **C
 ### Databases
 - **MongoDB • PostgreSQL • MySQL • Redis**
 
-### Tooling / DevOps
+#### Tooling / DevOps
 - **Vite • Docker • Git/GitHub** (and more below)
 
 ---
 
-## Featured projects
+### Featured projects
 
-<div align="center" style="display:flex; flex-wrap:wrap; gap:14px; justify-content:center; align-items:center;">
-  <a href="https://github.com/aggiovato/usequiz"
-     style="display:inline-flex; align-items:center; justify-content:center; text-decoration:none;">
+<p align="center">
+  <a href="https://github.com/aggiovato/usequiz">
     <img
-      src="https://github-readme-stats-fast.vercel.app/api/pin/?username=aggiovato&repo=usequiz&theme=transparent&hide_border=true"
+      src="https://github-readme-stats-fast.vercel.app/api/pin/?username=aggiovato&repo=usequiz&theme=transparent"
       alt="usequiz repo card"
-      style="width:495px; max-width:100%; height:auto; display:block;"
+      width="395"
     />
   </a>
-
-  <a href="https://github.com/aggiovato/full-stack-open"
-     style="display:inline-flex; align-items:center; justify-content:center; text-decoration:none;">
+  
+  <a href="https://github.com/aggiovato/full-stack-open">
     <img
-      src="https://github-readme-stats-fast.vercel.app/api/pin/?username=aggiovato&repo=full-stack-open&theme=transparent&hide_border=true"
+      src="https://github-readme-stats-fast.vercel.app/api/pin/?username=aggiovato&repo=full-stack-open&theme=transparent"
       alt="full-stack-open repo card"
-      style="width:495px; max-width:100%; height:auto; display:block;"
+      width="395"
     />
   </a>
-</div>
+</p>
 
 <p align="center">
   <a href="https://github.com/aggiovato?tab=repositories">
@@ -85,7 +83,7 @@ My path started with **low-level programming**: strong foundations in **C**, **C
 
 ---
 
-## Tech stack (full list)
+### Tech stack (full list)
 <details>
   <summary><b>Open full stack badges</b></summary>
   <br/>
@@ -135,7 +133,7 @@ My path started with **low-level programming**: strong foundations in **C**, **C
 
 ---
 
-## GitHub activity
+### GitHub activity
 <div align="center" style="display:flex; flex-wrap:wrap; gap:14px; justify-content:center; align-items:center;">
   <img
     src="https://github-readme-stats-fast.vercel.app/api?username=aggiovato&show_icons=true&bg_color=00000000&hide_border=true"
@@ -159,13 +157,13 @@ My path started with **low-level programming**: strong foundations in **C**, **C
 
 ---
 
-## Why “aggiovato”?
+### Why “aggiovato”?
 From **Giove** (*Jupiter* in Italian): a nickname I’ve carried for years—think “landed on Jupiter”.  
 It’s rare enough to be instantly recognizable (and finding it taken online is almost impossible :)
 
 ---
 
-## Links & resources
+### Links & resources
 > Committing soon
 
 ---
