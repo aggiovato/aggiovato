@@ -3,35 +3,24 @@
 </p>
 
 <p align="center">
-  <b>Full-Stack Developer</b> • <b>Telecom & Electronics Engineer</b> • <b>Web & Product-minded</b>
+  <b>Full-Stack Developer • Product-minded (PO/BA + UI/UX)</b>
 </p>
 
 <p align="center">
-  <a href="https://github.com/aggiovato" style="text-decoration:none;">
-    <img alt="GitHub" src="assets/github.svg" style="height:36px; width:auto; display:block;" />
-  </a>
-
-  <a href="https://www.linkedin.com/in/heberlugo/" style="text-decoration:none;">
-    <img alt="LinkedIn" src="assets/linkedin-btn.svg" style="height:36px; width:auto; display:block;" />
-  </a>
-
-  <a href="mailto:aggiovato@gmail.com" style="text-decoration:none;">
-    <img alt="Email" src="assets/email-btn.svg" style="height:36px; width:auto; display:block;" />
-  </a>
-  <!-- <a href="https://github.com/aggiovato">
-    <img alt="Portfolio" src="assets/portfolio-btn.svg" />
-  </a> -->
+  <a href="https://github.com/aggiovato"><img alt="GitHub" src="assets/github.svg" height="36" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/heberlugo/"><img alt="LinkedIn" src="assets/linkedin-btn.svg" height="36" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:aggiovato@gmail.com"><img alt="Email" src="assets/email-btn.svg" height="36" /></a>
 </p>
 
 ---
 
 ### About
 I’m a **Telecom & Electronics Engineer** who pivoted into **software & web development**—now building products across **frontend and backend**.
-My path started with **low-level programming**: strong foundations in **C**, **C++ OOP**, and **microprocessor Assembly**. That technical depth made me fall in love with software engineering—and naturally pushed me into the **web ecosystem**, where I build scalable products with modern frontend and backend stacks.
+My path started with **low-level programming**: strong foundations in **C**, **C++ OOP**, and **microprocessor Assembly**. That technical depth made me fall in love with software engineering—and naturally pushed me into the **web ecosystem**, where I build scalable products with modern frontend and backend stacks. I also work comfortably across product: **requirements, prioritization, and UX**—bridging business needs and engineering delivery.
 
-- 🎯 Focus: **clean architecture, maintainable code, and high-performance UI**
-- 🧠 Mindset: strong fundamentals + pragmatic delivery
-- 🌍 I enjoy solving real business problems end-to-end
+- 🎯 Focus: **clean architecture**, **maintainable code**, and **high-performance UI**
+- 🧠 Product mindset: **turning business needs into clear requirements** (flows, edge cases, acceptance criteria)
+- 🌍 Delivery: **shipping end-to-end solutions**—from idea and design (Figma) to implementation and release
 
 ---
 
@@ -69,16 +58,13 @@ My path started with **low-level programming**: strong foundations in **C**, **C
 ### Featured projects
 
 <p align="center">
-  <a href="https://github.com/aggiovato/usequiz">
-    <img
+  <a href="https://github.com/aggiovato/usequiz"><img
       src="https://github-readme-stats-fast.vercel.app/api/pin/?username=aggiovato&repo=usequiz&theme=transparent"
       alt="usequiz repo card"
       width="395"
     />
-  </a>
-  
-  <a href="https://github.com/aggiovato/full-stack-open">
-    <img
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/aggiovato/full-stack-open"><img
       src="https://github-readme-stats-fast.vercel.app/api/pin/?username=aggiovato&repo=full-stack-open&theme=transparent"
       alt="full-stack-open repo card"
       width="395"
@@ -99,62 +85,71 @@ My path started with **low-level programming**: strong foundations in **C**, **C
   <summary><b>Open full stack badges</b></summary>
   <br/>
 
-  <p><sub><i>Languages</i></sub></p>
-  <p align="center">
+  <table align="center">
+  <tr>
+  <td align="center" valign="top">
+    <sub><i>Languages</i></sub><br/><br/>
     <img alt="javascript" src="assets/js-badge.svg" height="32" />
     <img alt="typescript" src="assets/ts-badge.svg" height="32" />
-    <img alt="python" src="assets/python-badge.svg" height="32" />
+    <img alt="python" src="assets/python-badge.svg" height="32" /><br/>
     <img alt="java" src="assets/java-badge.svg" height="32" />
-    <img alt="kotlin" src="assets/kotlin-badge.svg" height="32" />
+    <img alt="kotlin" src="assets/kotlin-badge.svg" height="32" /><br/>
     <img alt="c++" src="assets/c++-badge.svg" height="32" />
     <img alt="c" src="assets/c-badge.svg" height="32" />
     <img alt="assembly" src="assets/assembly-badge.svg" height="32" />
-  </p>
+  </td>
 
-  <p><sub><i>Frontend</i></sub></p>
-  <p align="center">
+  <td align="center" valign="top">
+    <sub><i>Frontend</i></sub><br/><br/>
     <img alt="angular" src="assets/angular-badge.svg" height="32" />
     <img alt="react" src="assets/react-badge.svg" height="32" />
-    <img alt="astro" src="assets/astro-badge.svg" height="32" />
+    <img alt="astro" src="assets/astro-badge.svg" height="32" /><br/>
     <img alt="tanstack" src="assets/tanstack-badge.svg" height="32" />
     <img alt="redux" src="assets/redux-badge.svg" height="32" />
-    <img alt="rxjs" src="assets/rxjs-badge.svg" height="32" />
+    <img alt="rxjs" src="assets/rxjs-badge.svg" height="32" /><br/>
     <img alt="html" src="assets/html-badge.svg" height="32" />
     <img alt="css" src="assets/css-badge.svg" height="32" />
     <img alt="sass" src="assets/sass-badge.svg" height="32" />
     <img alt="tailwind" src="assets/tailwind-badge.svg" height="32" />
-  </p>
+  </td>
 
-  <p><sub><i>Backend</i></sub></p>
-  <p align="center">
+  <td align="center" valign="top">
+    <sub><i>Backend</i></sub><br/><br/>
     <img alt="spring boot" src="assets/spring-boot-badge.svg" height="32" />
     <img alt="node js" src="assets/node-badge.svg" height="32" />
-    <img alt="express js" src="assets/express-badge.svg" height="32" />
+    <img alt="express js" src="assets/express-badge.svg" height="32" /><br/>
     <img alt="graphql" src="assets/graphql-badge.svg" height="32" />
     <img alt="apollo" src="assets/apollo-badge.svg" height="32" />
     <img alt="jwt" src="assets/jwt-badge.svg" height="32" />
-  </p>
+  </td>
+  </tr>
 
-  <p><sub><i>Databases</i></sub></p>
-  <p align="center">
+  <tr>
+  <td align="center" valign="top">
+    <sub><i>Databases</i></sub><br/><br/>
     <img alt="mongodb" src="assets/mongodb-badge.svg" height="32" />
-    <img alt="postgres" src="assets/postgres-badge.svg" height="32" />
+    <img alt="postgres" src="assets/postgres-badge.svg" height="32" /><br/>
     <img alt="mysql" src="assets/mysql-badge.svg" height="32" />
     <img alt="redis" src="assets/redis-badge.svg" height="32" />
-  </p>
+  </td>
 
-  <p><sub><i>Tooling / DevOps</i></sub></p>
-  <p align="center">
+  <td align="center" valign="top">
+    <sub><i>Tooling / DevOps</i></sub><br/><br/>
     <img alt="vite" src="assets/vite-badge.svg" height="32" />
     <img alt="vitest" src="assets/vitest-badge.svg" height="32" />
-    <img alt="playwright" src="assets/playwright-badge.svg" height="32" />
+    <img alt="playwright" src="assets/playwright-badge.svg" height="32" /><br/>
     <img alt="docker" src="assets/docker-badge.svg" height="32" />
     <img alt="git" src="assets/git-badge.svg" height="32" />
     <img alt="github" src="assets/github-badge.svg" height="32" />
+  </td>
+
+  <td align="center" valign="top">
+    <sub><i>Tools</i></sub><br/><br/>
     <img alt="postman" src="assets/postman-badge.svg" height="32" />
     <img alt="figma" src="assets/figma-badge.svg" height="32" />
-  </p>
-
+  </td>
+  </tr>
+  </table>
 </details>
 
 ---
@@ -190,7 +185,10 @@ It’s rare enough to be instantly recognizable (and finding it taken online is 
 ---
 
 ### Links & resources
-> Committing soon
+- 📌 Portfolio: coming soon
+- 🧠 Notes: coming soon
+- 🎧 Coding playlist: coming soon
+
 
 ---
 
