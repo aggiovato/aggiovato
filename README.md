@@ -47,7 +47,7 @@ My path started with **low-level programming**: strong foundations in **C**, **C
 - **Node.js / Express**
 - **REST APIs • GraphQL**
 
-### Databases
+#### Databases
 - **MongoDB • PostgreSQL • MySQL • Redis**
 
 #### Tooling / DevOps
@@ -76,8 +76,8 @@ My path started with **low-level programming**: strong foundations in **C**, **C
 </p>
 
 <p align="center">
-  <a href="https://github.com/aggiovato?tab=repositories">
-    <img alt="All Repos" src="https://img.shields.io/badge/See%20all%20repos-222222?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://github.com/aggiovato?tab=repositories" style="text-decoration:none;">
+    <img alt="All Repos" src="assets/all-repos-btn.svg" style="height:36px; width:auto; display:block;" />
   </a>
 </p>
 
